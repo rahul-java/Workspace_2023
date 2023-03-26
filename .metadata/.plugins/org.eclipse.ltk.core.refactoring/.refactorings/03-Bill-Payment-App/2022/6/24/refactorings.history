@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.ashokit.CredicardPayment&apos; to &apos;CreditcardPayment&apos;&#x0D;&#x0A;- Original project: &apos;03-Bill-Payment-App&apos;&#x0D;&#x0A;- Original element: &apos;in.ashokit.CredicardPayment&apos;&#x0D;&#x0A;- Renamed element: &apos;in.ashokit.CreditcardPayment&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CredicardPayment&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.ashokit{CredicardPayment.java[CredicardPayment" matchStrategy="1" name="CreditcardPayment" qualified="false" references="true" similarDeclarations="false" stamp="1654739178075" textual="false" version="1.0"/>
+</session>

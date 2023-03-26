@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.ashokit.rest.CourseRestController&apos; to &apos;UserRestController&apos;&#x0D;&#x0A;- Original project: &apos;52-SBMS-Redis-Cache&apos;&#x0D;&#x0A;- Original element: &apos;in.ashokit.rest.CourseRestController&apos;&#x0D;&#x0A;- Renamed element: &apos;in.ashokit.rest.UserRestController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CourseRestController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;in.ashokit.rest{CourseRestController.java[CourseRestController" matchStrategy="1" name="UserRestController" qualified="false" references="true" similarDeclarations="false" stamp="1660959712533" textual="false" version="1.0"/>
+</session>

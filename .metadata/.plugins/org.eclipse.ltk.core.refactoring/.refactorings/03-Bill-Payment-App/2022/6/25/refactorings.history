@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.ashokit&apos; to &apos;04-First-Spring-App/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;03-Bill-Payment-App&apos;&#x0D;&#x0A;- Destination element: &apos;04-First-Spring-App/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;03-Bill-Payment-App/src/in.ashokit&apos;" description="Copy package" destination="=04-First-Spring-App/src\/main\/java" element1="/src&lt;in.ashokit" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1655085052621" version="1.0"/>
+</session>

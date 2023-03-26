@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person type="Docter">
+	<id>101</id>
+	<name>John</name>
+	<PhoneNum>12575757</PhoneNum>
+	<adress>
+		<city>Hyd</city>
+		<country>India</country>
+		<state>TG</state>
+	</adress>
+</person>

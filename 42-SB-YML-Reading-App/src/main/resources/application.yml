@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: sb-yml-app
+ashokit:
+  messages:
+    welcomeMsg: Welcome To Ashok IT
+    greetMsg: Good Morning
+    wishMsg: All the best
+    # msg: Hello

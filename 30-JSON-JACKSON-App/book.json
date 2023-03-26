@@ -1,0 +1,10 @@
+{
+	"name": "Spring",
+	"price": 450.0,
+	"author": {
+		"authorName": "Rod Johnson",
+		"authorEmail": "r.john@gmail.com",
+		"authorPhno": 86868686
+	},
+	"bookId": 101
+}
